@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+.completed {
+  font-size: 20px;
+  color: rgb(0, 162, 8);
+}
+.not-completed {
+  font-size: 20px;
+}
+.card-completed {
+  background-color: rgb(233, 255, 228);
+}
+.flex-collections {
+  display: flex;
+  gap: 10px;
+}
